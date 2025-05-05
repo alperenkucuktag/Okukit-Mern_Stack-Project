@@ -68,4 +68,4 @@ TailwindCSS 🎨: A utility-first CSS framework to style applications efficientl
 3. Run the Development Server
    npm run dev
 
-<img src="/newMygif.gif"/>
+<img src="/giff.gif"/>
